@@ -188,35 +188,4 @@ DEBUG_MODE=False
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
-
-**Aditya** - Full Stack Developer & Data Analyst
-
-- 🌐 Designed and developed complete web application architecture
-- 🤖 Integrated AI/ML capabilities for intelligent predictions
-- 📊 Built comprehensive data visualization dashboards
-- 🔧 Implemented real-time inventory management system
-
----
-
-## 🏆 Resume Points for Developer
-
-### **Full-Stack Web Development**
-- **Developed comprehensive food waste management system** using Streamlit framework, serving institutional mess facilities with 1000+ daily users
-- **Architected scalable web application** with real-time data processing, interactive dashboards, and responsive UI components
-
-### **AI/ML Integration & Data Analytics**
-- **Implemented predictive analytics system** using scikit-learn and TabPFN for demand forecasting, achieving 85%+ accuracy in footfall prediction
-- **Integrated Google Gemini AI** for intelligent recommendations and automated query processing, enhancing user experience with context-aware suggestions
-
-### **Data Visualization & Business Intelligence**
-- **Built interactive dashboard suite** using Plotly and Altair for real-time inventory tracking, trend analysis, and performance metrics visualization
-- **Designed data-driven decision support system** with automated reporting capabilities, reducing food waste by 25-40% in pilot implementations
-
-### **System Architecture & Database Management**
-- **Engineered robust data management pipeline** with CSV-based storage, session state management, and automated data processing workflows
-- **Developed modular application architecture** with separation of concerns, ensuring maintainable codebase and seamless feature integration
-
----
-
 *Built with ❤️ for sustainable food management*
